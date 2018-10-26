@@ -1,0 +1,25 @@
+#!/bin/bash
+#$ -N j0623-H
+#$ -S /bin/bash
+#$ -o /home/xyh/survey-dev/log/0623/H.log -j y
+# join stderr and stdout
+  
+  unset SGE_ROOT
+  cd /home/xyh/survey-dev
+
+  echo $NSLOTS
+  tmphosts=`cat $TMPDIR/machines`
+  hosts=`echo $tmphosts | sed 's/\ /,/g'`
+  echo $hosts
+
+#hosts=compute-0-10
+
+  mpirun -np $NSLOTS -H $hosts \
+    -mca btl_openib_if_include mlx4_0:1 -mca btl sm,self,openib \
+    -mca coll_fca_np 4 -mca coll_fca_enable 0 \
+    bin/SurveySim params/0623/H.config
+  
+  # -bind-to core
+  # "-mca coll_fca_enable 1" accelerates collective communications, but some
+  # programs hangs with such an option when lens is used (i.e., b130.q).
+  # If your program does not run correctly, set "-mca coll_fca_enable 0".

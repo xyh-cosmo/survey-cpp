@@ -1,0 +1,121 @@
+galactic-disk intersection angle b = 10
+	beta = +/- 7.50,  observable area is 29398.3
+	beta = +/- 8.50,  observable area is 28777.2
+@7	beta = +/- 9.50,  observable area is 28160.1
+	beta = +/-10.50,  observable area is 27542.8
+	beta = +/-11.50,  observable area is 26933.6
+	beta = +/-12.50,  observable area is 26316.7
+@8	beta = +/-13.50,  observable area is 25711.7
+@1	beta = +/-14.50,  observable area is 25109
+@2	beta = +/-15.50,  observable area is 24504.2
+
+galactic-disk intersection angle b = 11
+	beta = +/- 7.50,  observable area is 28761.6
+@6	beta = +/- 8.50,  observable area is 28150.3
+	beta = +/- 9.50,  observable area is 27540.7
+	beta = +/-10.50,  observable area is 26935.8
+	beta = +/-11.50,  observable area is 26328.5
+	beta = +/-12.50,  observable area is 25730.2
+@5	beta = +/-13.50,  observable area is 25127.5
+@4	beta = +/-14.50,  observable area is 24535.4
+@3	beta = +/-15.50,  observable area is 23941.9
+
+galactic-disk intersection angle b = 12
+	beta = +/- 7.50,  observable area is 28122.7
+	beta = +/- 8.50,  observable area is 27521.5
+	beta = +/- 9.50,  observable area is 26924.9
+	beta = +/-10.50,  observable area is 26324
+	beta = +/-11.50,  observable area is 25725.3
+	beta = +/-12.50,  observable area is 25136.6
+	beta = +/-13.50,  observable area is 24550.1
+	beta = +/-14.50,  observable area is 23962.5
+	beta = +/-15.50,  observable area is 23380.1
+
+galactic-disk intersection angle b = 13
+	beta = +/- 7.50,  observable area is 27489
+	beta = +/- 8.50,  observable area is 26900.6
+	beta = +/- 9.50,  observable area is 26310.3
+	beta = +/-10.50,  observable area is 25720.6
+	beta = +/-11.50,  observable area is 25137
+	beta = +/-12.50,  observable area is 24552.9
+	beta = +/-13.50,  observable area is 23968.9
+	beta = +/-14.50,  observable area is 23391
+	beta = +/-15.50,  observable area is 22818.7
+
+galactic-disk intersection angle b = 14
+	beta = +/- 7.50,  observable area is 26860.1
+	beta = +/- 8.50,  observable area is 26277.9
+	beta = +/- 9.50,  observable area is 25693.6
+	beta = +/-10.50,  observable area is 25121.5
+	beta = +/-11.50,  observable area is 24541.8
+	beta = +/-12.50,  observable area is 23971
+	beta = +/-13.50,  observable area is 23400.2
+	beta = +/-14.50,  observable area is 22829.9
+	beta = +/-15.50,  observable area is 22267.8
+
+galactic-disk intersection angle b = 15
+	beta = +/- 7.50,  observable area is 26237.5
+	beta = +/- 8.50,  observable area is 25662.2
+	beta = +/- 9.50,  observable area is 25089
+	beta = +/-10.50,  observable area is 24520.6
+	beta = +/-11.50,  observable area is 23952
+	beta = +/-12.50,  observable area is 23386.6
+	beta = +/-13.50,  observable area is 22828.9
+	beta = +/-14.50,  observable area is 22265.4
+	beta = +/-15.50,  observable area is 21713
+
+galactic-disk intersection angle b = 16
+	beta = +/- 7.50,  observable area is 25611.7
+	beta = +/- 8.50,  observable area is 25045.5
+	beta = +/- 9.50,  observable area is 24482.2
+	beta = +/-10.50,  observable area is 23923.8
+	beta = +/-11.50,  observable area is 23364.9
+	beta = +/-12.50,  observable area is 22808.4
+	beta = +/-13.50,  observable area is 22262
+	beta = +/-14.50,  observable area is 21711.3
+	beta = +/-15.50,  observable area is 21165.9
+
+galactic-disk intersection angle b = 17
+	beta = +/- 7.50,  observable area is 24989.7
+	beta = +/- 8.50,  observable area is 24437
+	beta = +/- 9.50,  observable area is 23883.4
+	beta = +/-10.50,  observable area is 23329.8
+	beta = +/-11.50,  observable area is 22781.2
+	beta = +/-12.50,  observable area is 22236.3
+	beta = +/-13.50,  observable area is 21697.9
+	beta = +/-14.50,  observable area is 21156.9
+	beta = +/-15.50,  observable area is 20621.3
+
+galactic-disk intersection angle b = 18
+	beta = +/- 7.50,  observable area is 24371.7
+	beta = +/- 8.50,  observable area is 23828.6
+	beta = +/- 9.50,  observable area is 23281.5
+	beta = +/-10.50,  observable area is 22743.3
+	beta = +/-11.50,  observable area is 22205.1
+	beta = +/-12.50,  observable area is 21669.6
+	beta = +/-13.50,  observable area is 21134.9
+	beta = +/-14.50,  observable area is 20605.9
+	beta = +/-15.50,  observable area is 20085.6
+
+galactic-disk intersection angle b = 19
+	beta = +/- 7.50,  observable area is 23762
+	beta = +/- 8.50,  observable area is 23227.8
+	beta = +/- 9.50,  observable area is 22695.1
+	beta = +/-10.50,  observable area is 22158
+	beta = +/-11.50,  observable area is 21628.7
+	beta = +/-12.50,  observable area is 21109
+	beta = +/-13.50,  observable area is 20584
+	beta = +/-14.50,  observable area is 20060.4
+	beta = +/-15.50,  observable area is 19544.1
+
+galactic-disk intersection angle b = 20
+	beta = +/- 7.50,  observable area is 23152
+	beta = +/- 8.50,  observable area is 22627.7
+	beta = +/- 9.50,  observable area is 22102.8
+	beta = +/-10.50,  observable area is 21582.3
+	beta = +/-11.50,  observable area is 21060.5
+	beta = +/-12.50,  observable area is 20549.4
+	beta = +/-13.50,  observable area is 20031.9
+	beta = +/-14.50,  observable area is 19520.9
+	beta = +/-15.50,  observable area is 19015.6
+
